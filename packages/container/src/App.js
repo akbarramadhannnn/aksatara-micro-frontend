@@ -5,6 +5,7 @@ import Layout from './layout';
 import Routes from './routes';
 
 const App = () => {
+  console.log('test app.js')
   return (
     <Layout>
       <Suspense
